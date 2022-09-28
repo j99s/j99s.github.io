@@ -1,0 +1,28 @@
+html, body {
+  background: #000000;
+  background-image: url("dop.jpg");
+  font-family: helvetica, arial, sans-serif;
+  font-size: 16px;
+  color: #AF111C;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color: #AF111C;
+}
+
+
+#container {
+	width: 90%;
+	max-width: 800px;
+	background: #000000;
+	margin: 30px auto;
+  padding: 30px;
+}
+
+section {
+	border-top: 1px solid #5BC0BE;
+	padding: 20px 0 0;
+}
